@@ -96,3 +96,12 @@
     align-items: center;
 
 }
+
+@media screen and (min-width: 480px) {
+    .serv {
+        flex-direction: column;
+    }
+    .serv1 {
+        flex-direction: column;
+    }
+}
