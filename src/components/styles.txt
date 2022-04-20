@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+}
+.header0 {
+    display: flex;
+    justify-content: flex-end;
+    background-color: gray;
+    border: 2px solid blue;
+    align-items: center;
+    height: 50px;
+    width: 100%; 
+
+}    
+    
